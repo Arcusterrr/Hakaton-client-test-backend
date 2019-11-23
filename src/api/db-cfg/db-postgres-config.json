@@ -1,0 +1,7 @@
+{
+    "host": "34.89.48.162",
+    "port": 5432,
+    "database": "hakatontest",
+    "user": "postgres",
+    "password": "postgres"
+}
